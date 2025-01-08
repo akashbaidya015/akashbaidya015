@@ -18,6 +18,8 @@
 - 📊 Developed Power BI dashboards to analyze undergraduate project trends, improving insights for management.  
 - 🌐 Optimized Spark jobs, boosting distributed computing performance by 25% for real-time IoT data.  
 - 🔎 Achieved 84% accuracy in crime detection using **NLP and machine learning** on 64k+ tweets.
+- 🩺 Developed deep learning **YOLOv models** for medical image analysis, achieving 95% accuracy in detecting diagnostic anomalies.
+
 
 ---
 
@@ -41,7 +43,7 @@
 
 ---
 
-### 📂 Projects  
+### 📂 Notable Projects  
 
 - 🔎 **[Health Insurance Fraud Detection](https://github.com/akashbaidya015/Health_Insurance_Fraud_Detection):** Improved fraud detection efficiency by 60% using feature engineering and machine learning.  
 - 🚓 **[Crime Prevention via Social Media](https://github.com/akashbaidya015/Harnessing-Social-Media-for-Early-Crime-Detection):** Achieved 84% crime detection accuracy through sentiment analysis and topic modeling on tweets.  
