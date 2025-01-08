@@ -1,7 +1,7 @@
 # Hi 👋, I'm Akash Baidya  
 ### Data Engineer | Data Scientist  
 
-🚀 Passionate about turning data into actionable insights to drive meaningful change.  
+🚀 Driven by a passion for transforming complex data into intuitive insights through advanced analytics and machine learning, creating meaningful impact and empowering informed decisions.  
 
 ---
 
