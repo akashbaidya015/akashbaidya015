@@ -36,7 +36,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)  
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?logo=python&logoColor=white) 
+![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?logo=python&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black)  
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&logoColor=white)  
