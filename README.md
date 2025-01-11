@@ -32,69 +32,21 @@
 
 ### 🛠️ Tools & Technologies  
 
-### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)  
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-
----
-
-### Machine Learning Tools and Databases
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black)  
+![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)  
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?logo=google-cloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black)  
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)  
-![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Postgres](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white)  
-
----
-
-### Data Analytics and Development Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![SAS](https://img.shields.io/badge/SAS-005B9A?logo=sas&logoColor=white)  
-![A/B Testing](https://img.shields.io/badge/A/B_Testing-6A1B9A?logo=flask&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)  
-
----
-
-### Big Data and Cloud Services
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)  
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white)  
-![AutoML](https://img.shields.io/badge/AutoML-FF6F00?logo=google-cloud&logoColor=white)  
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=white)  
-![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&logoColor=white)  
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)  
-![Hive](https://img.shields.io/badge/Hive-FDEE21?logo=apache-hive&logoColor=black)  
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)  
-
----
-
-### Data Visualization and Reporting
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black)  
-![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=yellow)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2088FF?logo=python&logoColor=white)  
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?logo=python&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)  
-
----
-
-### Skills
-- Effective Communication  
-- Analytical Thinking  
-- Global Operations Business  
-- Data Storytelling  
-- Problem Solving  
+![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?logo=python&logoColor=white) 
 
 ---
 
