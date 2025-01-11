@@ -63,6 +63,9 @@
 - 🔎 **[Health Insurance Fraud Detection](https://github.com/akashbaidya015/Health_Insurance_Fraud_Detection):** Improved fraud detection efficiency by 60% using feature engineering and machine learning.  
 - 🚓 **[Crime Prevention via Social Media](https://github.com/akashbaidya015/Harnessing-Social-Media-for-Early-Crime-Detection):** Achieved 84% crime detection accuracy through sentiment analysis and topic modeling on tweets.  
 - 👗 **[AI Fashion Stylist](https://github.com/akashbaidya015/Ai_fasion_designer):** Developed a generative AI-powered fashion design app using Stable Diffusion and React.  
+- 🔥 **[Real-Time Firearm Detection System](https://github.com/your-github-link):** Achieved 92% accuracy in firearm detection using CNNs, transfer learning, and real-time alert APIs.  
+- ❤️ **[Cardiovascular Disease Prediction](https://github.com/akashbaidya015/Analysis-and-Prediction-of-Cardiovascular-Diseases):** Conducted advanced data analysis and built predictive models to identify cardiovascular disease risks.  
+
 
 ---
 
