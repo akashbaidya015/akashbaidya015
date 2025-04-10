@@ -6,19 +6,23 @@
 ---
 
 ### 💻 About Me  
-- 🔍 **Experienced in:** Designing scalable ETL pipelines, database optimization, and building robust data solutions.  
-- 🌟 **Proficient in:** Python, SQL, AWS (Glue, EMR, Lambda), and Apache Spark for big data processing.  
-- 📊 **Focused on:** Data visualization using Power BI, machine learning, and solving real-world challenges with NLP and AI.  
-- 🎓 **Education:** Master's in Information Systems from Georgia State University.  
+- 🔍 **Experienced in:** Building scalable data pipelines, optimizing databases, and architecting end-to-end AI/ML workflows.  
+- 🤖 **Proficient in:** Python, SQL, AWS (Glue, EMR, Lambda), Apache Spark, and LangChain for LLM-powered solutions.  
+- 🧠 **Skilled in:** Fine-tuning LLMs, Retrieval-Augmented Generation (RAG), prompt engineering, and multimodal AI with computer vision.  
+- 📊 **Focused on:** Solving real-world challenges using machine learning, NLP, Power BI dashboards, and generative AI.  
+- 🎓 **Education:** Master's in Information Systems (Big Data & Machine Learning) from Georgia State University.  
 
 ---
 
 ### ⚡ Highlights of My Work  
 - 🚀 Built **serverless ETL pipelines** to process 5TB/day, reducing operational costs by 40%.  
-- 📊 Developed Power BI dashboards to analyze undergraduate project trends, improving insights for management.  
-- 🌐 Optimized Spark jobs, boosting distributed computing performance by 25% for real-time IoT data.  
-- 🔎 Achieved 84% accuracy in crime detection using **NLP and machine learning** on 64k+ tweets.
-- 🩺 Developed deep learning **YOLOv models** for medical image analysis, achieving 95% accuracy in detecting diagnostic anomalies.
+- 🧠 Developed a **RAG-based chatbot** using LangChain + Pinecone for efficient retrieval and semantic search.  
+- 📊 Created Power BI dashboards to analyze academic trends, improving visibility for university stakeholders.  
+- 🌐 Optimized distributed Spark jobs, boosting real-time processing performance by 25% for IoT streams.  
+- 🔎 Achieved **84% accuracy in crime detection** via NLP + ML applied to 64k+ labeled tweets.  
+- 🩺 Engineered **YOLOv-based deep learning models** for anomaly detection in medical imaging (95%+ accuracy).  
+- 📚 Fine-tuned LLMs for **domain-specific content moderation**, enhancing classification in sensitive safety datasets.  
+- 📷 Built an image-to-text system using **CLIP and Vision Transformers**, tagging unstructured health records.  
 
 
 ---
