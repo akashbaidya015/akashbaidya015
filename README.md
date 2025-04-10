@@ -54,10 +54,12 @@
 
 ---
 
-### Certifications
+### 🌟 Certifications  
 ![AWS](https://img.shields.io/badge/AWS_Data_Analytics-FF9900?logo=amazon-aws&logoColor=white)  
 ![GCP](https://img.shields.io/badge/GCP_Data_Engineering-4285F4?logo=google-cloud&logoColor=white)  
-![Azure](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-0078D4?logo=microsoft-azure&logoColor=white)  
+![Azure Fundamentals](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-0078D4?logo=microsoft-azure&logoColor=white)  
+![Azure DS Associate](https://img.shields.io/badge/Azure_Data_Scientist_Associate-0078D4?logo=microsoft-azure&logoColor=white)
+
 
 
 ---
@@ -73,10 +75,5 @@
 
 ---
 
-### 🌟 Certifications  
-- 🏅 **AWS Data Analytics**  
-- 🏅 **GCP Data Engineering (Skills Boost)**  
-- 🏅 **Microsoft Azure Fundamentals**  
-- 🏅 **Azure Data Scientist Associate**
 
 ---
