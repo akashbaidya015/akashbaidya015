@@ -76,6 +76,7 @@
 ### 🌟 Certifications  
 - 🏅 **AWS Data Analytics**  
 - 🏅 **GCP Data Engineering (Skills Boost)**  
-- 🏅 **Microsoft Azure Fundamentals**
+- 🏅 **Microsoft Azure Fundamentals**  
+- 🏅 **Azure Data Scientist Associate**
 
 ---
