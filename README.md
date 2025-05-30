@@ -14,15 +14,17 @@
 
 ---
 
-### ⚡ Highlights of My Work  
-- 🚀 Built **serverless ETL pipelines** to process 5TB/day, reducing operational costs by 40%.  
-- 🧠 Developed a **RAG-based chatbot** using LangChain + Pinecone for efficient retrieval and semantic search.  
-- 📊 Created Power BI dashboards to analyze academic trends, improving visibility for university stakeholders.  
-- 🌐 Optimized distributed Spark jobs, boosting real-time processing performance by 25% for IoT streams.  
-- 🔎 Achieved **84% accuracy in crime detection** via NLP + ML applied to 64k+ labeled tweets.  
-- 🩺 Engineered **YOLOv-based deep learning models** for anomaly detection in medical imaging (95%+ accuracy).  
-- 📚 Fine-tuned LLMs for **domain-specific content moderation**, enhancing classification in sensitive safety datasets.  
-- 📷 Built an image-to-text system using **CLIP and Vision Transformers**, tagging unstructured health records.  
+### ⚡ Highlights of My Work
+
+- 🚀 Built **serverless ETL pipelines** using AWS Glue, Lambda, and S3 to process 100GB/day, cutting latency by 30% and reducing operational costs by 40%.  
+- 🤖 Developed a **RAG-based chatbot** using React, Python, Llama 3.1, and ChromaDB for Georgia State University, enabling personalized learning at scale.  
+- 📊 Created and automated 20+ **Power BI dashboards** by integrating data from Azure DevOps, Splunk, and internal systems, improving real-time KPI visibility across departments.  
+- 🌐 Optimized **distributed Spark jobs** for processing IoT and healthcare data in Azure Synapse, boosting throughput by 25% and reducing job failures.  
+- 🧠 Applied **NLP + ML** on 64K+ labeled tweets, achieving 84% accuracy in crime detection through sentiment analysis, topic modeling, and SVM classification.  
+- 🩺 Engineered **YOLOv and CNN-based deep learning models** for medical imaging anomaly detection, achieving 95%+ accuracy in early-stage tumor recognition.  
+- 📚 Fine-tuned **domain-specific LLMs** to automate ingestion workflows across varied healthcare file formats, reducing onboarding time from 30 days to under 8 hours.  
+- 📷 Built an **image-to-text tagging pipeline** using CLIP and Vision Transformers to extract structured insights from untagged radiology records and clinical notes.
+ 
 
 
 ---
